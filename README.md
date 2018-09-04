@@ -1,2 +1,3 @@
-# MIPS_Programs
+# mips-programs
+
 A collection of my MIPS Programs
